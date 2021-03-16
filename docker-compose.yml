@@ -1,0 +1,5 @@
+version: '3'
+
+services:
+  fenz-raw:
+    image: tethysts/tethys-extraction-base:prod
