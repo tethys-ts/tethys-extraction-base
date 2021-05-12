@@ -2,4 +2,4 @@ version: '3'
 
 services:
   fenz-raw:
-    image: tethysts/tethys-extraction-base:1.0
+    image: tethysts/tethys-extraction-base:1.2
