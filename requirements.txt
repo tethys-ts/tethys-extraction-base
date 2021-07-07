@@ -1,10 +1,10 @@
 boto3==1.17.29
-pandas==1.2.3
+pandas==1.2.5
 pyyaml==5.4.1
 xarray==0.17.0
 scipy==1.6.1
 numpy==1.20.1
-tethys-utils==0.4.35
+tethys-utils==0.4.36
 tethysts==0.2.11
 requests==2.25.1
 pydantic==1.8.1
