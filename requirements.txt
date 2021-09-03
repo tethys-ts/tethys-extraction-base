@@ -9,4 +9,4 @@ tethysts==0.2.14
 requests==2.25.1
 pydantic==1.8.2
 zstandard==0.15.2
-orjson==3.6.0
+orjson==3.6.3
