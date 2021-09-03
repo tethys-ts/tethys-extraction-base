@@ -4,7 +4,7 @@ pyyaml==5.4.1
 xarray==0.17.0
 scipy==1.7.0
 numpy==1.21.1
-tethys-utils==0.5.13
+tethys-utils==0.5.14
 tethysts==0.2.14
 requests==2.25.1
 pydantic==1.8.2
