@@ -1,2 +1,2 @@
-tethys-utils==0.5.38
+tethys-utils==0.5.40
 tethysts==0.2.17
